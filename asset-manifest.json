@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/order_burger/static/css/main.7d0c280d.css",
+    "main.js": "/order_burger/static/js/main.9a404f3d.js",
+    "static/js/787.48b80222.chunk.js": "/order_burger/static/js/787.48b80222.chunk.js",
+    "static/media/burger-logo.png": "/order_burger/static/media/burger-logo.594f420382eddbf96586.png",
+    "index.html": "/order_burger/index.html",
+    "main.7d0c280d.css.map": "/order_burger/static/css/main.7d0c280d.css.map",
+    "main.9a404f3d.js.map": "/order_burger/static/js/main.9a404f3d.js.map",
+    "787.48b80222.chunk.js.map": "/order_burger/static/js/787.48b80222.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d0c280d.css",
+    "static/js/main.9a404f3d.js"
+  ]
+}
